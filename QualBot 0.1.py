@@ -17,12 +17,7 @@ import json
 
 
 
-#reddit = praw.Reddit(
-#                     client_id='DqmvlWPBNaULDA',
- #                    client_secret='K8TAhY46GEzdD7h3vI5OADhl7oA',
- #                    password='3pkAero!',
- #                    user_agent='Quality Bot 0.1',
- #                    username='QualBot',)
+
 # Create the Reddit instance 
 # and login
 #class User:
